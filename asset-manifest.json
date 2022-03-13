@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/https//unexunderscore.github.io/monster-rolodex/static/css/main.db56df42.css",
+    "main.js": "/https//unexunderscore.github.io/monster-rolodex/static/js/main.b2e82c77.js",
+    "static/js/787.e4e9b7ff.chunk.js": "/https//unexunderscore.github.io/monster-rolodex/static/js/787.e4e9b7ff.chunk.js",
+    "index.html": "/https//unexunderscore.github.io/monster-rolodex/index.html",
+    "main.db56df42.css.map": "/https//unexunderscore.github.io/monster-rolodex/static/css/main.db56df42.css.map",
+    "main.b2e82c77.js.map": "/https//unexunderscore.github.io/monster-rolodex/static/js/main.b2e82c77.js.map",
+    "787.e4e9b7ff.chunk.js.map": "/https//unexunderscore.github.io/monster-rolodex/static/js/787.e4e9b7ff.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.db56df42.css",
+    "static/js/main.b2e82c77.js"
+  ]
+}
